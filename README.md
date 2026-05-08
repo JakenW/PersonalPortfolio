@@ -8,4 +8,5 @@ Run `npm run dev` to start the development server.
 
 ## How to Access?
 Personal Portfolio is being hosted with Vercel
+Link: https://personalportfolio-3mcb28ia0-jakens-projects-8807dd3b.vercel.app/
   

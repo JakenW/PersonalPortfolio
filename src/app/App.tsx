@@ -3,9 +3,6 @@ import { motion } from 'motion/react';
 import { Github, Linkedin, Mail, ExternalLink, Code2, Palette, Database, Globe } from 'lucide-react';
 import { ImageWithFallback } from './components/figma/ImageWithFallback';
 
-//import my images to be used on the site
-import aboutMeImage from './components/images/JKN.jpg';
-
 export default function App() {
   const [activeSection, setActiveSection] = useState('home');
 
@@ -253,7 +250,7 @@ export default function App() {
                 <div className="relative">
                   <div className="aspect-square rounded-2xl overflow-hidden border border-gray-800">
                     <ImageWithFallback
-                      src={aboutMeImage}
+                      src={'/images/JKN.JPG'}
                       alt="Developer workspace"
                       className="w-full h-full object-cover"
                     />
