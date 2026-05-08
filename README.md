@@ -5,4 +5,7 @@ The original project is available at https://www.figma.com/design/DJNugSnTWdDUY4
 ## Running the code
 Run `npm i` to install the dependencies.
 Run `npm run dev` to start the development server.
+
+## How to Access?
+Personal Portfolio is being hosted with Vercel
   
